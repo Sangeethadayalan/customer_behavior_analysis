@@ -141,8 +141,6 @@ Based on the analysis, the following recommendations were identified:
 
 > **Power BI Dashboard**
 
-Add your dashboard image here.
-
 ```markdown
 ![Dashboard](dashboard/Customer%20Behavior%20Analysis%20Dashboard.png)
 ```
@@ -175,8 +173,7 @@ Customer-Shopping-Behavior-Analysis/
 │   └── Customer Behaviour Analytics for Revenue Growth.pptx
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
@@ -225,7 +222,7 @@ Open:
 dashboard/Customer_Shopping_Behavior.pbix
 ```
 
-Refresh the data source if required and explore the interactive dashboard.
+Please refresh the data source if needed and explore the interactive dashboard.
 
 ---
 
